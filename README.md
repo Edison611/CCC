@@ -1,2 +1,4 @@
 # CCC
-Solutions to CCC Problems
+Solutions to Junior CCC Problems using Python 3
+
+NOTE: Currently Unfinished
